@@ -1,7 +1,9 @@
 # LAMP Stack Configuration And Php Deployment
 
 ## Overview 
+
 This project demonstrates the setup of a LAMP stack (Linux, Apache, MySQL, and PHP) and the deployment of a PHP web application.
+
 ---
 
 ## Steps to set Up LAMP Stack
@@ -24,7 +26,7 @@ Once your LAMP stack is set up and running, you can deploy your PHP application 
   
 ## Access the Application 
 
-[http://](http://13.233.66.183:8080/sample_php.php)
+(http://13.233.66.183:8080/sample_php.php)
 
 
 
